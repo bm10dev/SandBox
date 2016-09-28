@@ -9,4 +9,5 @@ void main(void)
   printf("Line 6\n");
   printf("Line 7\n");
   printf("Line 8\n");
+  printf("Line 9\n");
 }
